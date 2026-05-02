@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building projects that help people. 🚀<br><br>Interested in collaborating on Open Source projects. 🤝<br><br>I’m currently deep-diving into Go. 🐹<br><br>When I’m not pushing code, you can find me sipping tea in a quiet alley somewhere. ☕<br><br>I love interacting with people about technology and exploring new avenues!<br>
+Building projects that help people. 🚀<br><br>Interested in collaborating on Open Source projects. 🤝<br><br>I’m currently deep-diving into Backend Development. 🐹<br><br>When I’m not pushing code, you can find me sipping tea in a quiet alley somewhere. ☕<br><br>I love interacting with people about technology and exploring new avenues!<br>
 
 
 ## 🌐 Socials:
